@@ -82,13 +82,13 @@ Di Excel, blok-blok yang ditanam 2016 mendominasi Top 10, sebagian besar karena 
 ## Struktur Proyek
 
 ```
-.
-├── data/              # taruh productivity_monthly.csv di sini (tidak disertakan)
-├── excel/
-│   └── sawit_dashboard.xlsx
-├── charts/            # gambar hasil Python dan screenshot dashboard
-├── eda.py             # validasi data dan seluruh analisis Python
-└── README.md
+   .
+   ├── data/                  # taruh productivity_monthly.csv di sini
+   ├── charts/                # gambar hasil Python dan screenshot dashboard
+   ├── Sawit Dashboard.xlsx   # dashboard Excel
+   ├── eda.py                 # validasi data dan seluruh analisis Python
+   ├── LICENSE
+   └── README.md
 ```
 
 ## Cara Menjalankan
@@ -111,4 +111,4 @@ Excel (Power Query, PivotTable, PivotChart, Slicer), Python (pandas, matplotlib,
 
 ---
 
-Dibuat oleh **Andri Firdaus** | [LinkedIn](#) | [GitHub](#)
+Dibuat oleh **Andri Firdaus** | [LinkedIn](https://www.linkedin.com/in/andri-firdaus-088516152/) | [GitHub](https://github.com/andrifirdaus)
