@@ -18,6 +18,7 @@ Analisis end-to-end data produktivitas bulanan 42 blok kebun kelapa sawit di Ind
 - **Tabel yang dipakai:** `productivity_monthly.csv` (6.552 baris, 15 kolom: 42 blok x 156 bulan, 2012-2024).
 - **Tabel yang belum dipakai:** data daun dan tanah (`leaf_sampling_event`, `soil_sampling_event`, beserta tabel penghubungnya). Lihat bagian "Pengembangan Lanjutan".
 - Data tidak disertakan di repo ini. Unduh dari tautan di atas (periksa lisensi dan ketentuan sitasi di halaman dataset), lalu taruh di folder `data/`.
+- Kode di repo ini berlisensi MIT. Dataset mengikuti lisensi sumbernya di Mendeley Data
 
 ## Metode
 
