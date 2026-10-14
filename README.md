@@ -18,7 +18,7 @@ Analisis end-to-end data produktivitas bulanan 42 blok kebun kelapa sawit di Ind
 - **Tabel yang dipakai:** `productivity_monthly.csv` (6.552 baris, 15 kolom: 42 blok x 156 bulan, 2012-2024).
 - **Tabel yang belum dipakai:** data daun dan tanah (`leaf_sampling_event`, `soil_sampling_event`, beserta tabel penghubungnya). Lihat bagian "Pengembangan Lanjutan".
 - Data tidak disertakan di repo ini. Unduh dari tautan di atas (periksa lisensi dan ketentuan sitasi di halaman dataset), lalu taruh di folder `data/`.
-- Kode di repo ini berlisensi MIT. Dataset mengikuti lisensi sumbernya di Mendeley Data
+- Kode di repo ini berlisensi MIT. Dataset mengikuti lisensi sumbernya di Mendeley Data.
 
 ## Metode
 
@@ -94,7 +94,7 @@ Di Excel, blok-blok yang ditanam 2016 mendominasi Top 10, sebagian besar karena 
 
 ## Cara Menjalankan
 
-1. Unduh `productivity_monthly.csv` dari tautan dataset di atas ke folder `data/`.
+1.    1. Buat folder `data/` di folder proyek, lalu unduh `productivity_monthly.csv` dari tautan dataset di atas ke dalamnya.
 2. Pasang library: `pip install pandas matplotlib seaborn`
 3. Jalankan: `python eda.py`
 
